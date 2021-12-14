@@ -1,2 +1,3 @@
-# CS5098
-Group Project
+# Removing Noise from Handwritten Transcriptions
+
+
