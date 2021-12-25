@@ -1,8 +1,2 @@
-# Removing Noise from Handwritten Transcriptions
-
-Digitalisation of ancient texts is essential to promote the research of ancient Egyptian hieroglyphs. In the texts of handwriting by Sethe (1927)[1], he added hatching to specific sections of texts to indicate damage. These hatched sections are the obstacles to work efficiency, and removing this ‘noise’ is challenging. This project aims at detecting hatching to enhance the accuracy of removing hatchings. As for online handwritten recognition, Kaur and Singh(2016)[2] achieved the high accuracy by the method applying fast Fourier Transform (FFT) and Support Vector Machine (SVM) as the supervised machine learning approach, with FFT benefitting detection of vertical and horizontal lines on the handwritten staff (Alirezazadeh and Ahmadzadeh, 2014)[3]. For these reasons, the combination of FFT and SVM was proposed. The process of this project first was to develop a tool for generating training and test image datasets. In a second stage, the application of FFT and labelling to each pixel of images were implemented to create features for building a model. Finally, SVM was applied to the model, and evaluation of the model was then performed. The maximum accuracy of detecting hatching reached 94.49%, and the suggested approach proved effective. 
-
-[1] K. Sethe, Urkunden der 18.Dynastie. J.C.Hinrichs'sche buchhandlung,1927.<br />
-[2] R. Kaur and M. Singh, “Stroke based online handwritten Gurmukhi character recognition” - 2016 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 598-601, 2016.<br />
-[3] F. Alirezazadeh and M. R. Ahmadzadeh, “Effective staff line detection, restoration and removal approach for different quality of scanned hand-written music sheets” - Journal of Advanced Computer Science & Technology, vol. 3, 6 2014.
-
+# MSc Project in digital processing of hieroglyphics via machine learning
+Removing Noise from Handwritten Transcriptions
