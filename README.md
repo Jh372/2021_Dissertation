@@ -1,2 +1,2 @@
-# MSc Project in digital processing of hieroglyphics via machine learning
-Removing Noise from Handwritten Transcriptions
+# Removing Noise from Handwritten Transcriptions
+MSc Project in digital processing of hieroglyphics via machine learning
